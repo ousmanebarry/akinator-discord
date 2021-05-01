@@ -2,7 +2,6 @@ import os
 import asyncio
 from akinator.async_aki import Akinator
 import akinator
-from keep_alive import keep_alive
 import discord
 from discord.ext import commands
 from discord.ext.commands import BucketType
