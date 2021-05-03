@@ -34,11 +34,11 @@ This is a bot which uses the [akinator.com](https://akinator.com/) API to enable
 2. Follow this [other tutorial](https://www.howtogeek.com/714348/how-to-enable-or-disable-developer-mode-on-discord/#:~:text=In%20Discord's%20settings%20menu%2C%20select,message%20sizes%2C%20and%20accessibility%20settings.&text=Scroll%20down%20to%20the%20bottom,the%20%E2%80%9CDeveloper%20Mode%E2%80%9D%20option.) to enable developer mode which will allow you to get the **channel id** of where you want the bot to be played in 
 3. Once you have the **discord bot token** and **channel id**, navigate to the setup directory in this project and inside the setup file follow the instructions 
 4. Open the project with an IDE, inside the IDE built-in terminal write : `pip install -r requirements.txt`
-5. You can now run **main.py**
+5. You can now run **main.py** and the bot should be up and running
 
 ## FAQ
 
-* **Q**: **WHy is the bot is not registering my reaction?**
+* **Q**: **Why is the bot is not registering my reaction?**
 
 * **A**: Try to wait until the bot finishes adding all emojis before reacting. If that doesn't work, the game will end by itself in 45 seconds and you'll be able to play again
 
