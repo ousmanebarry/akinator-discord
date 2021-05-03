@@ -1,0 +1,2 @@
+token = 'ODI2NDQ1NDIxMzM2MzMwMjUx.YGMlRw.cZ7KMf0BwEa7nzoezp18fBOu_wE'
+channel_id = 833082230083289099
