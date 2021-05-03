@@ -1,1 +1,4 @@
-discord~=1.0.1
+akinator.py==4.1.0
+async-timeout==3.0.1
+discord==1.0.1
+discord.py==1.7.1
