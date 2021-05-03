@@ -26,6 +26,7 @@ This is a bot which uses the [akinator.com](https://akinator.com/) API to enable
 
 * Play akinator directly on discord
 * Guess animals, objects and people
+* Help command that shows how to play
 
 ## Installation Steps
 
