@@ -20,13 +20,12 @@ Click on the image to take a look at the video or click [here](https://imgur.com
 
 ## Description
 
-This is a bot which uses the [akinator.com](https://akinator.com/) API to enable users to play the akinator game directly on discord.
+This is a bot which uses the [akinator.com](https://akinator.com/) API to enable users to play the akinator game directly on discord
 
 ## Functionalities
 
-* Automatically logs in to a [typeracer.com](https://play.typeracer.com/) account 
-* Automatically plays normal games
-* Automatically keeps playing the number of times asked by the user
+* Play akinator directly on discord
+* Guess animals, objects and people
 
 ## Installation Steps
 
@@ -39,24 +38,24 @@ This is a bot which uses the [akinator.com](https://akinator.com/) API to enable
 
 ## FAQ
 
-* **Q**: **How do I change the bot typing speed?**
+* **Q**: **WHy is the bot is not registering my reaction?**
 
-* **A**: In line 35 of the **main.py** file, you can play with the number inside interval. _PS : I recommend keeping it at the current speed as it seems to be the optimal one_
-
-
-* **Q**: **Why doesn't the bot type faster?**
-
-* **A**: Pyautogui is sometimes too fast and [typeracer.com](https://play.typeracer.com/) seems to have limitations as to how fast you can type using pyautogui. _PS : I'm looking for a work-around_
+* **A**: Try to wait until the bot finishes adding all emojis before reacting. If that doesn't work, the game will end by itself in 45 seconds and you'll be able to play again
 
 
-* **Q**: **What average wpm can I except with the current configuration?**
+* **Q**: **Why isn't the bot sending the next question?**
 
-* **A**: You can except an average of around 100wpm to 115 wmp
+* **A**: This is a problem with the akinator api, the only solution is to wait for the bot to end the game by itself in 45 seconds
 
 
-* **Q**: **Why does the bot not get past the login page?**
+* **Q**: **Why can't other people play while I'm playing?**
 
-* **A**: Make sure your account is verified and you put in the correct login informations
+* **A**: Only one person can play at a time, I will update my code to allow more people to play at the same time later or you could take a look at the code and try to do it yourself if you can 
+
+
+* **Q**: **Why did the game end suddenly?**
+
+* **A**: Since only one person can play at a time, the game automatically ends after 45 seconds without user input to allow other people to play
 
 
 * **Q**: **Why am I having problems running the bot?**
@@ -77,7 +76,7 @@ This is a bot which uses the [akinator.com](https://akinator.com/) API to enable
 
 ## Author
 
-* This project was made by me and it is one of my first few Python projects.
+* This project was made by me and it is one of my first few Python projects
 
 ## Contact 
 
