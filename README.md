@@ -16,7 +16,7 @@
 
 [![image](https://user-images.githubusercontent.com/79618101/110070701-8789bb80-7d48-11eb-9df7-34fd1f912b8d.png)](https://imgur.com/a/LID2ynA)
 
-Click on the image to take a look at the video or click [here](https://imgur.com/a/LID2ynA)
+Click on the image to take a look at the video or click [here](https://streamable.com/efd0m2)
 
 ## Description
 
