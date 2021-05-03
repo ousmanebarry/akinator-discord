@@ -20,7 +20,7 @@ Click on the image to take a look at the video or click [here](https://imgur.com
 
 ## Description
 
-This is a automated program for the website [typeracer.com](https://play.typeracer.com/) made with the use of Python that automatically plays normal games on the website. It is a simple automating script that uses selenium and pyautogui. 
+This is a bot which uses the [akinator.com](https://akinator.com/) API to enable users to play the akinator game directly on discord.
 
 ## Functionalities
 
@@ -73,7 +73,7 @@ This is a automated program for the website [typeracer.com](https://play.typerac
 
 ## License 
 
-This project is licensed under MIT License - see the [LICENSE.md](https://github.com/ousmanebarry/akinator-discord/blob/main/LICENSE) file for details
+* This project is licensed under MIT License - see the [LICENSE.md](https://github.com/ousmanebarry/akinator-discord/blob/main/LICENSE) file for details
 
 ## Author
 
