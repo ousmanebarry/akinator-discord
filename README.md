@@ -68,7 +68,6 @@ This is a bot which uses the [akinator.com](https://akinator.com/) API to enable
 * [Akinator.py](https://pypi.org/project/akinator.py/) - Library for Akinator API
 * [Python 3.9](https://www.python.org/) - The programming language used
 * [Discord.py](https://discordpy.readthedocs.io/en/stable/) - A discord wrapper for Python
-* [Chrome WebDriver](https://chromedriver.chromium.org/downloads) - The executable that replicates Google Chrome   
 
 ## License 
 
