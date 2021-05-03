@@ -1,1 +1,1 @@
-# akinator-discord-
+# akinator-discord
