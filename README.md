@@ -14,7 +14,7 @@
 
 ## Demo 
 
-![demo](https://user-images.githubusercontent.com/79618101/116906378-2da15700-ac0e-11eb-82b3-e012f291ba0d.PNG)
+[![demo](https://user-images.githubusercontent.com/79618101/116906378-2da15700-ac0e-11eb-82b3-e012f291ba0d.PNG)](https://streamable.com/efd0m2)
 
 Click on the image to take a look at the video or click [here](https://streamable.com/efd0m2)
 
