@@ -30,12 +30,11 @@ This is a bot which uses the [akinator.com](https://akinator.com/) API to enable
 
 ## Installation Steps
 
-1. Go to [chrome webdriver](https://chromedriver.chromium.org/downloads) and donwload the correct webdriver for you version of chrome. 
-2. **If you do not know your chrome version, you can find it** [here](https://www.whatismybrowser.com/detect/what-version-of-chrome-do-i-have)
-3. During the installation process of Chrome WebDriver, remember the path where the exe file has been installed
+1. Follow this [tutorial](https://www.writebots.com/discord-bot-token/) to get your **discord bot token** and invite that bot to your desired discord server 
+2. Follow this [other tutorial](https://www.howtogeek.com/714348/how-to-enable-or-disable-developer-mode-on-discord/#:~:text=In%20Discord's%20settings%20menu%2C%20select,message%20sizes%2C%20and%20accessibility%20settings.&text=Scroll%20down%20to%20the%20bottom,the%20%E2%80%9CDeveloper%20Mode%E2%80%9D%20option.) to enable developer mode which will allow you to get the **channel id** of where you want the bot to be played in 
+3. Once you have the **discord bot token** and **channel id**, navigate to the setup directory in this project and inside the setup file follow the instructions 
 4. Open the project with an IDE, inside the IDE built-in terminal write : `pip install -r requirements.txt`
-5. Open **setup.py** and follow the instructions
-6. You can now run the python code
+5. You can now run **main.py**
 
 ## FAQ
 
