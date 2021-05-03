@@ -1,2 +1,2 @@
-token = 'ODI2NDQ1NDIxMzM2MzMwMjUx.YGMlRw.cZ7KMf0BwEa7nzoezp18fBOu_wE'
-channel_id = 833082230083289099
+token = ''  # This is where your discord bot token should go (string)
+channel_id = 99999999999  # This is where you should put the channel id of where you want the bot to play in (integer)
