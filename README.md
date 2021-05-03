@@ -73,11 +73,11 @@ This is a automated program for the website [typeracer.com](https://play.typerac
 
 ## License 
 
-This project is licensed under MIT License - see the [LICENSE.md](https://github.com/ousmanebarry/typeracer-bot/blob/main/LICENSE) file for details
+This project is licensed under MIT License - see the [LICENSE.md](https://github.com/ousmanebarry/akinator-discord/blob/main/LICENSE) file for details
 
 ## Author
 
-* This project was made by me. It is one of my first few Python projects and I will add more functionalities to this as time goes 
+* This project was made by me and it is one of my first few Python projects.
 
 ## Contact 
 
