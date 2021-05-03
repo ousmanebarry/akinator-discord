@@ -66,7 +66,9 @@ This is a automated program for the website [typeracer.com](https://play.typerac
 ## Built With
 
 * [Pycharm](https://www.jetbrains.com/pycharm/) - The IDE used
-* [Python 3.8](https://www.python.org/) - The programming language used
+* [Akinator.py](https://pypi.org/project/akinator.py/) - Library for Akinator API
+* [Python 3.9](https://www.python.org/) - The programming language used
+* [Discord.py](https://discordpy.readthedocs.io/en/stable/) - A discord wrapper for Python
 * [Chrome WebDriver](https://chromedriver.chromium.org/downloads) - The executable that replicates Google Chrome   
 
 ## License 
