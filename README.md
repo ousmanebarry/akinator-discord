@@ -67,7 +67,7 @@ This is a bot which uses the [akinator.com](https://akinator.com/) API to enable
 * [Pycharm](https://www.jetbrains.com/pycharm/) - The IDE used
 * [Akinator.py](https://pypi.org/project/akinator.py/) - Library for Akinator API
 * [Python 3.9](https://www.python.org/) - The programming language used
-* [Discord.py](https://discordpy.readthedocs.io/en/stable/) - A discord wrapper for Python
+* [Discord.py](https://discordpy.readthedocs.io/en/stable/) - A discord API wrapper for Python
 
 ## License 
 
@@ -76,7 +76,6 @@ This is a bot which uses the [akinator.com](https://akinator.com/) API to enable
 ## Author
 
 * This project was made by me and it is one of my first few Python projects
-
 ## Contact 
 
 * If you're encountering any problems or would like to share some things I could improve this bot on, feel free to reach me on Discord at **Barry#0638** 
