@@ -10,7 +10,6 @@
 6. [Built With](#Built-With)
 7. [License](#License)
 8. [Author](#Author)
-9. [Contact](#Contact)
 
 ## Demo 
 
@@ -76,6 +75,3 @@ This is a bot which uses the [akinator.com](https://akinator.com/) API to enable
 ## Author
 
 * This project was made by me and it is one of my first few Python projects
-## Contact 
-
-* If you're encountering any problems or would like to share some things I could improve this bot on, feel free to reach me on Discord at **Barry#0638** 
