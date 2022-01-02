@@ -59,7 +59,7 @@ This is a bot which uses the [akinator.com](https://akinator.com/) API to enable
 
 * **Q**: **Why am I having problems running the bot?**
 
-* **A**: You probably didn't follow the [installation steps](#Installation-Steps) well. Retry following the installation steps and if it still doesn't work try to [contact](#Contact) me
+* **A**: You probably didn't follow the [installation steps](#Installation-Steps) well. 
 
 ## Built With
 
