@@ -1,6 +1,6 @@
 # Akinator Discord Bot
 
-## Disclaimer : I will not be updating this repo, feel free to fork it and improve the bot where you see fit
+## I will not be updating this repo, feel free to fork it and improve the bot where you see fit
 
 ## Table of Content
 
